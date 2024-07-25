@@ -1,0 +1,2 @@
+# The data files downloaded into the data folder are large and vary over time, or the dataset chosen, so we don't want to track them in git.
+data/
