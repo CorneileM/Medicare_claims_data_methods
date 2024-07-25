@@ -15,3 +15,25 @@ The goal of this repository is to provide a step-by-step guide to working with C
 
 ### Extract, Transform, Load (ETL) process
 #### ETL Part 1: Loading data from the BCDA API
+- [ETL_Part1 notebook](ETL_part1.ipynb)
+#### ETL Part 2: Getting data cloud and SQL-ready
+- [ETL_Part2 notebook](ETL_part2.ipynb) *# coming soon*
+#### ETL Part 3: Creating longitudinal datasets for analysis
+- [ETL_Part3 notebook](ETL_part3.ipynb) *# coming soon*
+
+### Data analysis
+#### Data analysis Part 1: Exploratory data analysis
+- [Data_analysis_Part1 notebook](Data_analysis_Part1.ipynb) *# coming soon*
+#### Data analysis Part 2: Building disease and treatment logic
+- [Data_analysis_Part2 notebook](Data_analysis_Part2.ipynb) *# coming soon*
+#### Data analysis Part 3: Hypothesis testing (treatment comparison)
+- [Data_analysis_Part3 notebook](Data_analysis_Part3.ipynb) *# coming soon*
+#### Data analysis Part 4: Tracking patient journeys
+- [Data_analysis_Part4 notebook](Data_analysis_Part4.ipynb) *# coming soon*
+
+### Data visualization
+#### Data visualization Part 1: Building descriptive stats dashboards
+- [Data_visualization_Part1 notebook](Data_visualization_Part1.ipynb) *# coming soon*
+#### Data visualization Part 2: Mapping patient journeys
+- [Data_visualization_Part2 notebook](Data_visualization_Part2.ipynb) *# coming soon*
+
